@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>kotlin on Jane - A super concise theme for Hugo</title>
+    <link>http://localhost:1313/tags/kotlin/</link>
+    <description>Recent content in kotlin on Jane - A super concise theme for Hugo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 09 May 2021 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/kotlin/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>kotlin协程2</title>
+      <link>http://localhost:1313/post/kotlin/kotlin-%E5%8D%8F%E7%A8%8B2/</link>
+      <pubDate>Sun, 09 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/post/kotlin/kotlin-%E5%8D%8F%E7%A8%8B2/</guid>
+      <description>基础 implementation(&amp;quot;org.jetbrains.kotlinx:kotlinx-coroutines-core:1.4.2&amp;quot;) import kotlinx.coroutines.* GlobalScope.launch delay runBlocking job.join() coroutineScope suspend repeat 协程像守护线程 协程很轻量 结构化并发 取消与超时 job.cancel(), job.join(), job.cancelAndJoin() 取消是协作的 isActive 在 finally 中释放资源 finally 块中调用挂起函数, withContext(NonCancellable){xxx} 绝大多数取消一个</description>
+    </item>
+    
+    <item>
+      <title>kotlin协程</title>
+      <link>http://localhost:1313/post/kotlin/kotlin-%E5%8D%8F%E7%A8%8B/</link>
+      <pubDate>Sat, 08 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/post/kotlin/kotlin-%E5%8D%8F%E7%A8%8B/</guid>
+      <description>基础 implementation(&amp;quot;org.jetbrains.kotlinx:kotlinx-coroutines-core:1.4.2&amp;quot;) import kotlinx.coroutines.* GlobalScope.launch delay runBlocking job.join() coroutineScope suspend repeat 协程像守护线程 协程很轻量 结构化并发 取消与超时 job.cancel(), job.join(), job.cancelAndJoin() 取消是协作的 isActive 在 finally 中释放资源 finally 块中调用挂起函数, withContext(NonCancellable){xxx} 绝大多数取消一个</description>
+    </item>
+    
+  </channel>
+</rss>
